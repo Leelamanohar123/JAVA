@@ -1,4 +1,4 @@
-class Datatypes
+class datatypes
 {
     public static void main(String args[])
     {
